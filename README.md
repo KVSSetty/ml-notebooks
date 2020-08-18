@@ -1,4 +1,4 @@
-# Machine Learning Tutorials
+# Machine Learning Notebooks
 
 *KV Subbaiah Setty*
 
